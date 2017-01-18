@@ -1,0 +1,4 @@
+﻿  pointerExercise1.cpp
+\\icnas4.cc.ic.ac.uk\wbe15\visual studio 2015\projects\pointerexercise1\pointerexercise1\pointerexercise1.cpp(55): warning C4804: '<=': unsafe use of type 'bool' in operation
+  pointerExercise1.vcxproj -> \\icnas4.cc.ic.ac.uk\wbe15\visual studio 2015\Projects\pointerExercise1\x64\Debug\pointerExercise1.exe
+  pointerExercise1.vcxproj -> \\icnas4.cc.ic.ac.uk\wbe15\visual studio 2015\Projects\pointerExercise1\x64\Debug\pointerExercise1.pdb (Full PDB)
